@@ -1,0 +1,32 @@
+tr {
+    font-size: large;
+    color: red;
+}
+
+button {
+    margin: 10px;
+}
+
+html {
+    width: auto;
+    height: auto;
+    display: grid;
+    place-items: center;
+}
+
+#form {
+    border-style: dotted;
+    margin: 10px;
+    padding: 10px;
+}
+
+/* table {
+    border-style: double;
+    border-width: 2px;
+    width: max-content;
+    height: max-content;
+} */
+
+.tableStyle {
+    background-color: aqua;
+}
